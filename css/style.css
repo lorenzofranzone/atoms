@@ -84,6 +84,17 @@ a:link {
   border: 2px solid #18A6DE;
 }
 
+.btn.white {
+  background: #fff;
+  color: #18A6DE;
+}
+
+.btn.white.outline {
+  background: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
 /*
 * //////////////////////////////////////////////////
 * ==================================================

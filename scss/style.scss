@@ -41,6 +41,18 @@ a:link{ color: $link-color!important; }
       } // .btn.primary.outline
       
    } // .btn.primary
+
+   &.white{
+      background: #fff;
+      color: $primary;
+      
+      &.outline{
+         background: transparent;
+         color: #fff;
+         border: 2px solid #fff;
+      } // .btn.primary.outline
+      
+   } // .btn.primary
    
 } // .btn
 
