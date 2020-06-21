@@ -1,0 +1,27 @@
+<svg id="Icon_Social_Facebook_Copy_2" data-name="Icon/Social/Facebook Copy 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_3" data-name="Clip 3" d="M0,0H4.582V4.619H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_6" data-name="Clip 6" d="M0,0H12.041V12.9H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9" data-name="Group 9" transform="translate(6.4 6.836)">
+    <path id="Fill_1" data-name="Fill 1" d="M0,12.515H3.874V0H0Z" transform="translate(0.372 6.258)" fill="#484a54"/>
+    <g id="Group_8" data-name="Group 8" transform="translate(0 0)">
+      <g id="Group_4" data-name="Group 4">
+        <path id="Clip_3-2" data-name="Clip 3" d="M0,0H4.582V4.619H0Z" fill="none"/>
+        <g id="Group_4-2" data-name="Group 4" clip-path="url(#clip-path)">
+          <path id="Fill_2" data-name="Fill 2" d="M2.291,4.619A2.31,2.31,0,1,0,0,2.309a2.3,2.3,0,0,0,2.291,2.31" transform="translate(0)" fill="#484a54"/>
+        </g>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(6.723 5.876)">
+        <path id="Clip_6-2" data-name="Clip 6" d="M0,0H12.041V12.9H0Z" transform="translate(0)" fill="none"/>
+        <g id="Group_7-2" data-name="Group 7" transform="translate(0)" clip-path="url(#clip-path-2)">
+          <path id="Fill_5" data-name="Fill 5" d="M3.716,6.327c0-1.759.81-2.808,2.361-2.808,1.424,0,2.109,1.006,2.109,2.808V12.9h3.856V4.973C12.041,1.621,10.142,0,7.488,0A4.365,4.365,0,0,0,3.716,2.067V.382H0V12.9H3.716Z" fill="#484a54"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

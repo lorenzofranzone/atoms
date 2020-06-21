@@ -17,11 +17,14 @@
 // ==================================================
 
 $primary: #18A6DE;
+$primaryLight: #80C7E5;
+$primaryUltraLight: #E3F3F9;
+$primaryMegaLight: #F6FBFD;
 $secondary: #293E59;
 $tertiary: #484A54;
 $light: #F2F4F6;
 
-$text: #9B9B9B;
+$text-color: #9B9B9B;
 $heading-color: $secondary;
 $link-color: $secondary;
 
@@ -33,11 +36,10 @@ $link-color: $secondary;
 // ––––––––––––––––––––––––––––––––––––––––––––––––––
 // ==================================================
 
-$primaryFont: 'Roboto', sans-serif;    // default primary font
+$primaryFont: 'Fira Sans', sans-serif;    // default primary font
 $secondaryFont: 'Butler', serif;  // default secondary font
 
 $fontBaseSize: 16px;  // default px font size
-$lineHeight: 130%; // default % line height
 
 
 //
