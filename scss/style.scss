@@ -1084,6 +1084,8 @@ a:link{ color: $link-color!important; }
 footer{
    background: $light;
    padding: 80px 24px 32px;
+
+   a{ color: $secondary!important; }
    
    .footer__top{
       display: flex;
