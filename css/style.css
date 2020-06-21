@@ -1148,7 +1148,7 @@ a:link {
 */
 footer {
   background: #F2F4F6;
-  padding: 80px 24px 0;
+  padding: 80px 24px 32px;
 }
 
 footer .footer__top {
